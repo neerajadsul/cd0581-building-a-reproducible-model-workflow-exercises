@@ -3,4 +3,4 @@
 **/wandb
 **/mlruns
 **/outputs
-
+**/__pycache__
