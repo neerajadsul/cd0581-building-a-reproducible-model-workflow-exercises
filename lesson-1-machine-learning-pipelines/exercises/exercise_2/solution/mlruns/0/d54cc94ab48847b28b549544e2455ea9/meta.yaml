@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_2/solution/mlruns/0/d54cc94ab48847b28b549544e2455ea9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54cc94ab48847b28b549544e2455ea9
+run_name: awesome-swan-133
+run_uuid: d54cc94ab48847b28b549544e2455ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701814232868
+status: 1
+tags: []
+user_id: neeraj

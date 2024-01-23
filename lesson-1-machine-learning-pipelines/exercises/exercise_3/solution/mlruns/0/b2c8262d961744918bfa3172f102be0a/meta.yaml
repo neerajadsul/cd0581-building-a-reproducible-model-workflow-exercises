@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/b2c8262d961744918bfa3172f102be0a/artifacts
+end_time: 1701812851456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2c8262d961744918bfa3172f102be0a
+run_name: trusting-eel-36
+run_uuid: b2c8262d961744918bfa3172f102be0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701812850292
+status: 4
+tags: []
+user_id: neeraj

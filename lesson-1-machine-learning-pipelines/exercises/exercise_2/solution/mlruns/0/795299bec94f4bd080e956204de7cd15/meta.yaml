@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_2/solution/mlruns/0/795299bec94f4bd080e956204de7cd15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 795299bec94f4bd080e956204de7cd15
+run_name: delightful-roo-935
+run_uuid: 795299bec94f4bd080e956204de7cd15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701814079923
+status: 1
+tags: []
+user_id: neeraj

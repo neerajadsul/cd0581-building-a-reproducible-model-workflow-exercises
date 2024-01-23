@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/67543097b84f4eb08b8d46a2041cf653/artifacts
+end_time: 1701813750330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67543097b84f4eb08b8d46a2041cf653
+run_name: serious-ray-599
+run_uuid: 67543097b84f4eb08b8d46a2041cf653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813684129
+status: 3
+tags: []
+user_id: neeraj

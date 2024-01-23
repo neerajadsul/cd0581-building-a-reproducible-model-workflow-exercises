@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/6acd9bc3848b45a6bedfb5eba92eaf99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6acd9bc3848b45a6bedfb5eba92eaf99
+run_name: useful-elk-204
+run_uuid: 6acd9bc3848b45a6bedfb5eba92eaf99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813451958
+status: 1
+tags: []
+user_id: neeraj

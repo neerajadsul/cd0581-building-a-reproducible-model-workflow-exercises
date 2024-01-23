@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/82c73ffc43e54763839595541cf51066/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c73ffc43e54763839595541cf51066
+run_name: rebellious-shrew-142
+run_uuid: 82c73ffc43e54763839595541cf51066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813342060
+status: 1
+tags: []
+user_id: neeraj

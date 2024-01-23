@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/e91f942b02994a40a3b1b6ed8fffe65f/artifacts
+end_time: 1701813246869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e91f942b02994a40a3b1b6ed8fffe65f
+run_name: vaunted-shrike-568
+run_uuid: e91f942b02994a40a3b1b6ed8fffe65f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813209698
+status: 4
+tags: []
+user_id: neeraj

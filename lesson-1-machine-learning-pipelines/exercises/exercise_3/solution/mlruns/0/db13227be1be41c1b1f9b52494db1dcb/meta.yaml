@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/db13227be1be41c1b1f9b52494db1dcb/artifacts
+end_time: 1701813684119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db13227be1be41c1b1f9b52494db1dcb
+run_name: awesome-carp-361
+run_uuid: db13227be1be41c1b1f9b52494db1dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813654326
+status: 3
+tags: []
+user_id: neeraj

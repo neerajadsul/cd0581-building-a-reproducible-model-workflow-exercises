@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/703dc1fd27f0416c9d980c42d66d86bf/artifacts
+end_time: 1701813750472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703dc1fd27f0416c9d980c42d66d86bf
+run_name: hilarious-moose-275
+run_uuid: 703dc1fd27f0416c9d980c42d66d86bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813652771
+status: 3
+tags: []
+user_id: neeraj

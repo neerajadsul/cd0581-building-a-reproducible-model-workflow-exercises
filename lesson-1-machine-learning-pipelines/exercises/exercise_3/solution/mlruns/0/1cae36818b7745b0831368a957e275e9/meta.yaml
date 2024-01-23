@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/1cae36818b7745b0831368a957e275e9/artifacts
+end_time: 1701813569777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cae36818b7745b0831368a957e275e9
+run_name: bouncy-moth-901
+run_uuid: 1cae36818b7745b0831368a957e275e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813493840
+status: 4
+tags: []
+user_id: neeraj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/5f7e7dce55e6427a94057df14de5ebb5/artifacts
+end_time: 1701811701780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f7e7dce55e6427a94057df14de5ebb5
+run_name: nebulous-pug-396
+run_uuid: 5f7e7dce55e6427a94057df14de5ebb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701811653056
+status: 4
+tags: []
+user_id: neeraj

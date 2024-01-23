@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_2/solution/mlruns/0/6f55e81b69ea4be6bc683873c44aa54d/artifacts
+end_time: 1701814294071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f55e81b69ea4be6bc683873c44aa54d
+run_name: monumental-ram-704
+run_uuid: 6f55e81b69ea4be6bc683873c44aa54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701814279699
+status: 3
+tags: []
+user_id: neeraj

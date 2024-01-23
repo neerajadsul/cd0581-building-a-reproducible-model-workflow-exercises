@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neeraj/Sources/cd0581-MLops/lesson-1-machine-learning-pipelines/exercises/exercise_3/solution/mlruns/0/9ff7fbd91d574bb2b95d46ac337ce40b/artifacts
+end_time: 1701813016023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff7fbd91d574bb2b95d46ac337ce40b
+run_name: flawless-loon-776
+run_uuid: 9ff7fbd91d574bb2b95d46ac337ce40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701813014885
+status: 4
+tags: []
+user_id: neeraj
